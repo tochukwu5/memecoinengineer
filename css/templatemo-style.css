@@ -262,6 +262,14 @@ h1,h2,h3,h4,h5
         padding: 15px 0;
 		color: #ffffff;
     }
+    
+    @media (max-width: 768px) {
+        .about-h2 {
+            font-size: 25px;
+        }
+    }
+    
+    
 #about .progress
     {
         border-radius: 4px;
